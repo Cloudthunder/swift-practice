@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AD0796E01FA5200800E8B2F1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD0796DF1FA5200800E8B2F1 /* main.swift */; };
+		AD3B47BD1FD35DC300C0547E /* school.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD3B47BC1FD35DC300C0547E /* school.swift */; };
 		ADF2F4791FC0E82B00D7A421 /* practice.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2F4781FC0E82B00D7A421 /* practice.swift */; };
 		ADF2F47B1FC0E8AF00D7A421 /* quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF2F47A1FC0E8AF00D7A421 /* quiz.swift */; };
 /* End PBXBuildFile section */
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		AD0796DC1FA5200800E8B2F1 /* swift practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "swift practice"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD0796DF1FA5200800E8B2F1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AD3B47BC1FD35DC300C0547E /* school.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = school.swift; sourceTree = "<group>"; };
 		ADF2F4781FC0E82B00D7A421 /* practice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = practice.swift; sourceTree = "<group>"; };
 		ADF2F47A1FC0E8AF00D7A421 /* quiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = quiz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +66,7 @@
 				AD0796DF1FA5200800E8B2F1 /* main.swift */,
 				ADF2F4781FC0E82B00D7A421 /* practice.swift */,
 				ADF2F47A1FC0E8AF00D7A421 /* quiz.swift */,
+				AD3B47BC1FD35DC300C0547E /* school.swift */,
 			);
 			path = "swift practice";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				ADF2F4791FC0E82B00D7A421 /* practice.swift in Sources */,
 				AD0796E01FA5200800E8B2F1 /* main.swift in Sources */,
+				AD3B47BD1FD35DC300C0547E /* school.swift in Sources */,
 				ADF2F47B1FC0E8AF00D7A421 /* quiz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
